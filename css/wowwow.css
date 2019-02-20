@@ -31,18 +31,6 @@ nav {
 	border-bottom: 5px solid #FFFFFF
 }
 	
-main {
-	display: block;
-	font-family: Verdana, Arial, sans-serif
-	font-size: lem;
-	margin-top: 20px;
-	margin-bottom: 10px;
-	padding: 20px;
-	border-radius: 10px;
-	background-color: #FFFFFFbox-shadow: 12px 12px 12px #404040
-	box-shadow: 12px 12px 12px #404040
-}
-
 footer {
 	font-size: .70em;
 	text-align: center;
