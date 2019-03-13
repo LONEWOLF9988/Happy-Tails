@@ -1,20 +1,20 @@
 body {
 	background-color: #DDDDDE;
-	}
-	
-	#dog {
-		border: none;
-		margin-left: auto;
-		margin-right: auto;
-		padding-top: 100px;
 }
-		header {
-		margin-top: 10px;
-		margin-bottom: 20px;
-		background-color: #C8C8C8;
-		border-radius: 10px;
-		box-shadow: 12px 12px 12px #404040;
-		text-align: center;
+	
+#dog {
+	border: none;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 100px;
+}
+header {
+	margin-top: 10px;
+	margin-bottom: 20px;
+	background-color: #C8C8C8;
+	border-radius: 10px;
+	box-shadow: 12px 12px 12px #404040;
+	text-align: center;
 }
 	
 nav {
@@ -50,7 +50,8 @@ dt {
 	font-weight: bold;
 }
 
-dd { padding-bottom: 20px;
+dd {
+	padding-bottom: 20px;
 }
 
 
